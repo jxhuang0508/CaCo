@@ -1,0 +1,11 @@
+GPU_ID: 0
+SOURCE: GTA
+TARGET: Cityscapes
+NUM_WORKERS: 4
+TRAIN:
+  DA_METHOD: caco
+  MODEL: DeepLabv2
+  RESTORE_FROM: ../../pretrained_models/gta_source_only_pretrained.pth
+  MULTI_LEVEL: True
+TEST:
+  MODE: best
