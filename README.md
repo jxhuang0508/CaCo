@@ -67,7 +67,7 @@ CaCo/data/Cityscapes/gtFine/val
 ```
 
 ### Pre-trained models
-Pre-trained models can be downloaded [here](xxxxx) and put ```DeepLab_resnet_pretrained_imagenet.pth``` and ```gta_source_only_pretrained.pth``` into ```CaCo/pretrained_models```, and ```caco_stage1.pth``` into ```CaCo/caco_vanilla_finetune/snapshots/caco_stage1```. 
+Pre-trained models can be downloaded [here](https://github.com/jxhuang0508/CaCo/releases/tag/Pre-train) and put ```DeepLab_resnet_pretrained_imagenet.pth``` and ```gta_source_only_pretrained.pth``` into ```CaCo/pretrained_models```, and ```caco_stage1.pth``` into ```CaCo/caco_vanilla_finetune/snapshots/caco_stage1```. 
 
 ### Training
 To train CaCo + ProDA (~58 mIoU):
