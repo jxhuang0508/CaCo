@@ -3,12 +3,12 @@
 
 ## Paper
 ![](./teaser.png)
-[Category Contrast for Unsupervised Domain Adaptation in Visual Tasks](xxxx)  
+[Category Contrast for Unsupervised Domain Adaptation in Visual Tasks](https://github.com/jxhuang0508/CaCo/releases/tag/pdf)  
  [Jiaxing Huang](https://scholar.google.com/citations?user=czirNcwAAAAJ&hl=en&oi=ao), [Dayan Guan](https://scholar.google.com/citations?user=9jp9QAsAAAAJ&hl=en), [Xiao Aoran](https://scholar.google.com/citations?user=yGKsEpAAAAAJ&hl=en), [Shijian Lu](https://scholar.google.com/citations?user=uYmK-A0AAAAJ&hl=en), [Ling Shao](https://scholar.google.com/citations?user=z84rLjoAAAAJ&hl=en)  
  School of Computer Science Engineering, Nanyang Technological University, Singapore  
 IEEE Conference on Computer Vision and Pattern Recognition, CVPR 2022.
  
-If you find this code/paper useful for your research, please cite our [paper](xxx):
+If you find this code/paper useful for your research, please cite our [paper](https://github.com/jxhuang0508/CaCo/releases/tag/pdf):
 
 ```
 @inproceedings{huang2022category,
