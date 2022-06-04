@@ -1,5 +1,4 @@
 matplotlib==2.0.0
-numpy==1.18
 scipy==1.1.0
 tqdm==4.48.2
 pillow
@@ -7,3 +6,4 @@ scikit-learn==0.21.3
 opencv-python
 numba==0.50.0
 imageio
+# numpy==1.18 please refer to ProDA for installation if this numpy version is not valid
